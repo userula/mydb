@@ -1,0 +1,104 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Grayhound",
+      "group": "Dog",
+      "city": "Almaty",
+      "description": "Hi, I am JoJo – a 2 year old spayed Beagle that is looking for a place to crash.",
+      "gender": "Male",
+      "photos": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/55239775/1/?bust=1649360940&width=1080",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "2",
+      "name": "Beagle",
+      "group": "Dog",
+      "city": "Uralsk",
+      "description": "Ben is a 2 year old spayed Beagle looking for a quiet home with lots of love to give.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/beagle-detail.jpg?bust=1535565158&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "3",
+      "name": "Labrador Retriever",
+      "group": "Dog",
+      "city": "Nur-Sultan",
+      "description": "Did you know that I have been considered a Frisbee champion for my mad fetch skills? If you love your Frisbee as much as I love mine, you should hit me up so we can be a champion team.",
+      "gender": "Female",
+      "photos": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/55580845/1/?bust=1652836705&width=1080",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "4",
+      "name": "American Staffordshire Terrier  ",
+      "group": "Dog",
+      "city": "Aktobe",
+      "description": "I may not be winning any fetch awards, but I will definitely win over your heart with my mad snuggling skills. If a night of snack, snuggling and sitcoms is your thing – we may be a perfect match.",
+      "gender": "Female",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-staffordshire-terrier-detail-scaled.jpg?bust=1535565083&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "5",
+      "name": "Basset Hound",
+      "group": "Dog",
+      "city": "Shymkent",
+      "description": "I am a big dufus who can sometimes forget just how big I am and I would not want to mow down your little ones, so a home with adults or older kids might be best.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/basset-hound-detail.jpg?bust=1535565151&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "6",
+      "name": "Abyssinian",
+      "group": "Cat",
+      "city": "Almaty",
+      "description": "The Abyssinian is often a colorful cat with a distinctly ticked coat, medium in size and regal in appearance; lithe, hard and muscular, showing eager activity and lively interest in their surroundings. They are often well balanced temperamentally and physically.",
+      "gender": "Female",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/abyssinian-detail.jpg?bust=1535664455&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "7",
+      "name": "American Shorthair",
+      "group": "Cat",
+      "city": "Aktobe",
+      "description": "The American Shorthair is a true breed of working cat. The general effect is that of a strongly built, well balanced, symmetrical cat with conformation indicating power, endurance, and agility.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-shorthair-detail.jpg?bust=1535566898&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "8",
+      "name": "Bengal",
+      "group": "Cat",
+      "city": "Nur-Sultan",
+      "description": "The Bengal is a domestic cat that has physical features distinctive to the small forest-dwelling wildcats, and with the loving, dependable temperament of a family pet. As such, some characteristics in the appearance of the Bengal are distinct from those found in other domestic cat breeds.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/bengal-detail.jpg?bust=1535566919&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "9",
+      "name": "British Shorthair",
+      "group": "Cat",
+      "city": "Almaty",
+      "description": "The British Shorthair is a compact, well-balanced, and powerful cat, with a short, very dense coat. They often convey an overall impression of balance and proportion in which no feature is exaggerated.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/british-shorthair-detail.jpg?bust=1535566957&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "10",
+      "name": "Devon Rex",
+      "group": "Cat",
+      "city": "Pavlodar",
+      "description": "The Devon Rex is a breed of unique appearance. The breed’s large eyes, short muzzle, prominent cheekbones, and huge, lowset ears create a characteristic elfin look. A cat of medium fine frame, the Devon is well covered with soft, wavy fur. The fur is of a distinctive texture, as the mutation that causes its wavy coat is cultivated in no other breed.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/devon-rex-detail.jpg?bust=1535566997&width=630",
+      "owner_number": "87753355794"
+    }
+  ]
+}

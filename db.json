@@ -1,0 +1,252 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Grayhound",
+      "group": "Dog",
+      "city": "Almaty",
+      "description": "Hi, I am JoJo – a 2 year old spayed Beagle that is looking for a place to crash.",
+      "gender": "Male",
+      "photos": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/55239775/1/?bust=1649360940&width=1080",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "2",
+      "name": "Beagle",
+      "group": "Dog",
+      "city": "Uralsk",
+      "description": "Ben is a 2 year old spayed Beagle looking for a quiet home with lots of love to give.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/beagle-detail.jpg?bust=1535565158&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "3",
+      "name": "Labrador Retriever",
+      "group": "Dog",
+      "city": "Nur-Sultan",
+      "description": "Did you know that I have been considered a Frisbee champion for my mad fetch skills? If you love your Frisbee as much as I love mine, you should hit me up so we can be a champion team.",
+      "gender": "Female",
+      "photos": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/55580845/1/?bust=1652836705&width=1080",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "4",
+      "name": "American Staffordshire Terrier  ",
+      "group": "Dog",
+      "city": "Aktobe",
+      "description": "I may not be winning any fetch awards, but I will definitely win over your heart with my mad snuggling skills. If a night of snack, snuggling and sitcoms is your thing – we may be a perfect match.",
+      "gender": "Female",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-staffordshire-terrier-detail-scaled.jpg?bust=1535565083&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "5",
+      "name": "Basset Hound",
+      "group": "Dog",
+      "city": "Shymkent",
+      "description": "I am a big dufus who can sometimes forget just how big I am and I would not want to mow down your little ones, so a home with adults or older kids might be best.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/basset-hound-detail.jpg?bust=1535565151&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "6",
+      "name": "Abyssinian",
+      "group": "Cat",
+      "city": "Almaty",
+      "description": "The Abyssinian is often a colorful cat with a distinctly ticked coat, medium in size and regal in appearance; lithe, hard and muscular, showing eager activity and lively interest in their surroundings. They are often well balanced temperamentally and physically.",
+      "gender": "Female",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/abyssinian-detail.jpg?bust=1535664455&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "7",
+      "name": "American Shorthair",
+      "group": "Cat",
+      "city": "Aktobe",
+      "description": "The American Shorthair is a true breed of working cat. The general effect is that of a strongly built, well balanced, symmetrical cat with conformation indicating power, endurance, and agility.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-shorthair-detail.jpg?bust=1535566898&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "8",
+      "name": "Bengal",
+      "group": "Cat",
+      "city": "Nur-Sultan",
+      "description": "The Bengal is a domestic cat that has physical features distinctive to the small forest-dwelling wildcats, and with the loving, dependable temperament of a family pet. As such, some characteristics in the appearance of the Bengal are distinct from those found in other domestic cat breeds.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/bengal-detail.jpg?bust=1535566919&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "9",
+      "name": "British Shorthair",
+      "group": "Cat",
+      "city": "Almaty",
+      "description": "The British Shorthair is a compact, well-balanced, and powerful cat, with a short, very dense coat. They often convey an overall impression of balance and proportion in which no feature is exaggerated.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/british-shorthair-detail.jpg?bust=1535566957&width=630",
+      "owner_number": "87753355794"
+    },
+    {
+      "id": "10",
+      "name": "Devon Rex",
+      "group": "Cat",
+      "city": "Pavlodar",
+      "description": "The Devon Rex is a breed of unique appearance. The breed’s large eyes, short muzzle, prominent cheekbones, and huge, lowset ears create a characteristic elfin look. A cat of medium fine frame, the Devon is well covered with soft, wavy fur. The fur is of a distinctive texture, as the mutation that causes its wavy coat is cultivated in no other breed.",
+      "gender": "Male",
+      "photos": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/devon-rex-detail.jpg?bust=1535566997&width=630",
+      "owner_number": "87753355794"
+    }
+  ],
+"category": [
+        {
+            "id": "1",
+            "name": "cat"
+        },
+        {
+            "id": "2",
+            "name": "dog"
+        },
+        {
+            "id": "3",
+            "name": "all"
+        }
+    ],
+"goods": [
+    {
+      "id": "1",
+      "name": "Drinking bottle",
+      "description": "The perfect travel gadget - With the outdoor drinking bottle LIST with silicone bowl the water supply can take place even without a bulky bowl. The drinking bottle can be easily attached to belt loops, bags or backpack with a carabiner. If thirsty, the pouring device made of food-grade silicone can simply be folded out and used as a bowl. The pouring device can be removed from the LIST outdoor drinking bottle and placed on other commercially available bottles.",
+      "price": "13.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/list_bottle_red_1024x1024@2x.jpg?v=1569362358",
+      "category_id": "2",
+      "group_id": "3",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "2",
+      "name": "Grooming currycomb",
+      "description": "The curry comb SPA with the special wellness effect. The special threefold massage pins treat your pet to some real pampering during grooming. What is more, the brush can also be filled with shampoo thanks to the twist-off cap in the massage head. Simply push the button and the brush pumps the shampoo right onto your four-legged friend’s body. Along with optimum hygiene, this function makes it easier to dispense and distribute the shampoo, and it can help stimulate your dog’s circulation. The curry comb’s ergonomic form means it fits perfectly in the hand.",
+      "price": "15.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/brush566_1024x1024@2x.jpg?v=1616629841",
+      "category_id": "2",
+      "group_id": "2",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "3",
+      "name": "Collapsible Travel Bowls",
+      "description": "The LIST silicon travel bowl set contains two collapsible bowls for simple, hygienic dispensing of food and water anywhere you and your pet happen to be. Stored in a compact, zippered nylon case with maritime motif, the set is lightweight, practical and a pleasure to use.   Size - 25oz each.  2 Pack.",
+      "price": "24.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/foldable_bowls_red_1_1024x1024@2x.jpg?v=1599786971",
+      "category_id": "2",
+      "group_id": "2",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "4",
+      "name": "Dog toy HUGGLY",
+      "description": "The HUGGLY Amazonas dog toy with no squeaker is made of an extremely soft corduroy fabric and cotton rope. Machine washable up to 86°F and CE certified, meeting European child toy safety regulations.   Size - 9.5\" / 24cm",
+      "price": "18.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/huggly_1024x1024@2x.jpg?v=1632248088",
+      "category_id": "1",
+      "group_id": "2",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "5",
+      "name": "Totem",
+      "description": "Their small size and light weight make the TOTEM cat toy easy for lively cats to chase them around, while the catnip included in the toy guarantees even more fun and will energize your cat for wild playtime fun.\r\nThe TOTEM set cat toy contains two felt cat toys stuffed with polyester and catnip. 2 pack. Dimensions: 2.75\" (6.985cm)",
+      "price": "14.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/92384_14_004_1024x1024@2x.jpg?v=1562703199",
+      "category_id": "1",
+      "group_id": "1",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "6",
+      "name": "Cat Collar Modern Art Luxus",
+      "description": "The MODERN ART LUXUS cat collar is a soft faux leather collar with an inlay of Swarovski® Elements. Lightweight and comfortable, the collar is easily adjustable for a secure fit. It features a quick release safety click should your cat get entangled, a reflective address tag and small bell. Practical, safe and distinctive.",
+      "price": "15.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/70263_10_1024x1024@2x.jpg?v=1583963006",
+      "category_id": "1",
+      "group_id": "1",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "7",
+      "name": "Shampoo With Avocado Oil",
+      "description": "The pH neutral Hunter Care shampoo is extremely delicate, contains avocado oil, adds freshness, healthy shine and smoothness. Recommended for dogs with particularly sensitive and dry skin.   Ingredients: 5-15% anionic surfactants, less than 5% non-ionic surfactants, less than 5% amphoteric surfactants, perfumes, sodium benzoate hydroxypropyl guar hydroxypropyltrimonium chloride, Persea gratissima oil. Size - 6.7oz / 200ml.",
+      "price": "14.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/DB86880E-DB47-46BF-9F6E-01565503330F_1024x1024@2x.jpg?v=1632248456",
+      "category_id": "2",
+      "group_id": "3",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "8",
+      "name": "Slow Feeding Bowl ATLANTA",
+      "description": "The ATLANTA slow feeding bowl in a harmonious grey color and elegant form fits almost everywhere. This anti-snarling bowl is ideal for dogs that eat too fast. Thanks to its shaped inner surface it can prevent food from being swallowed. The melamine bowl is scratch- and shock-resistant and particularly easy to clean. Rubber attachments on the bottom of the bowl ensure a safe stand and prevent the bowl from slipping. The bowl can be simply wiped out or cleaned in the dishwasher.  Size - 30oz./900ml",
+      "price": "29.99",
+      "photo": "https://cdn.shopify.com/s/files/1/0243/5402/9602/products/atlanta2_1024x1024@2x.jpg?v=1632248474",
+      "category_id": "6",
+      "group_id": "2",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "9",
+      "name": "Pedigree Adult Complete Nutrition ",
+      "description": "Grilled Steak & Vegetable Flavor Dry Dog Food\r\nComplete and balanced nutrition has antioxidants, vitamins and minerals to help maintain a healthy lifestyle. Optimal levels of omega-6 fatty acid nourish the skin and help keep his coat shiny and healthy. Whole grains and a special fiber blend support healthy digestion with a delicious grilled steak flavor. Unique, crunchy texture helps to clean the teeth with every bite to support good oral health between brushings. Proudly made in the USA with the world’s finest ingredients; contains no high fructose corn syrup, artificial flavors or sugar. 30-lb bag",
+      "price": "21.98",
+      "photo": "https://img.chewy.com/is/image/catalog/362460_MAIN._AC_SS348_V1643222860_.jpg",
+      "category_id": "3",
+      "group_id": "2",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "10",
+      "name": "Bravecto Topical Solution",
+      "description": "Bravecto is a topical solution for cats prescribed by veterinarians to help provide 12 weeks of protection against fleas and ticks and 8 weeks of protection against Lone Star ticks. It may also help to prevent and treat flea infestations. This topical medication is designed with an easy applicator that makes application extra easy for you and your cat. This medication also comes in a topical and a chewable tablet version for dogs.",
+      "price": "45.99",
+      "photo": "https://img.chewy.com/is/image/catalog/146046_MAIN._AC_SS348_V1561126638_.jpg",
+      "category_id": "3",
+      "group_id": "1",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "11",
+      "name": "Senergy Topical Solution for Cats",
+      "description": "Senergy is a convenient topical parasiticide for your kitty companion that is designed to help prevent heartworm disease while killing adult fleas and deterring flea eggs from hatching for one month. It may also be used to aid in the treatment and control of ear mite infestations as well as roundworm and hookworm infections.",
+      "price": "39.99",
+      "photo": "https://img.chewy.com/is/image/catalog/242991_MAIN._AC_SS348_V1594773100_.jpg",
+      "category_id": "3",
+      "group_id": "1",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    },
+    {
+      "id": "12",
+      "name": "Cat's Best Original Cat litter Cat's Best Original Cat litter",
+      "description": "\\Cat's Best Original Cat Litter is the first cat litter that combines nature and high-tech developments. Technologically refined active wood fibres absorb moisture and odours, being stored deep inside. It is entirely natural and free from chemical additives. This allows Cat's Best Original Cat Litter to last longer, up to 7 weeks, in your cat's litter tray. This helps to reduce the amount of work you need to do to keep your cat's litter tray clean and full, as well as reducing costs. Cat's Best Original Cat Litter works best when you remove any solid waste and clumps regularly, disposing of them in the compost or your household toilet (although be sure to check with your local waste disposal before doing so).",
+      "price": "14.99",
+      "photo": "https://shop-cdn-m.mediazs.com/bilder/cats/best/original/cat/litter/0/800/20342_pla_catsbest_original_5l_hs_01_0.jpg",
+      "category_id": "3",
+      "group_id": "1",
+      "created_at": "05/21/22",
+      "updated_at": "05/26/22"
+    }
+  ]
+}
